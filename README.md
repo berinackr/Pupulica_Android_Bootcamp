@@ -17,4 +17,4 @@ The app performs only **addition** operations using a simple keypad interface, j
 
 ## 📽 Demo
 
-https://github.com/berinackr/Pupulica_Android_Bootcamp/blob/main/hw5/demo.webm
+https://github.com/berinackr/Pupulica_Android_Bootcamp/blob/main/hw5/demo.mp4
