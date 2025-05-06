@@ -16,10 +16,10 @@ The app performs only **addition** operations using a simple keypad interface, j
 ---
 
 ## 📽 Demo
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-id/demo.gif" width="300" height="600" />
+  <img src="https://raw.githubusercontent.com/berinackr/Pupulica_Android_Bootcamp/main/hw5/demo.gif" width="300" height="500" />
 </p>
+
 
 
 
